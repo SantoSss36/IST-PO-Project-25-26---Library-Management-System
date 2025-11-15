@@ -4,7 +4,7 @@ A Java-based library management system that handles user registrations, work cat
 
 ## Project Structure
 
-The project consists of three main components:
+The project consists of three main components (keeping a facade pattern):
 
 - **`053/bci-core`**: Core business logic and domain models
   - Library management (users, works, requests)
